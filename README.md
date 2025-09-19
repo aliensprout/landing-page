@@ -5,4 +5,6 @@ The web page will demonstrate learned web dev fundamentals such as:
 - Flexbox 
 
 questions: 
-- not understanding responsive design here
+- not understanding responsive design here:
+- when to wrap items?
+- how exactly did they get the quoteblock and cta sections to be the same size?
