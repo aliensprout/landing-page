@@ -3,3 +3,6 @@ The web page will demonstrate learned web dev fundamentals such as:
 - proper HTML syntax
 - Basic CSS styling
 - Flexbox 
+
+questions: 
+- not understanding responsive design here
